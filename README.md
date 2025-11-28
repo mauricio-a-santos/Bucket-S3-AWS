@@ -119,7 +119,7 @@ Este repositório contém **prints** e um passo-a-passo de como criar um bucket 
 ### 5) Acessar a URL pública do site
 - Copie a URL do endpoint adquirida anteriormente e cole em uma nova aba do seu navegador para acessar o site hospedado (atenção no protocolo http e não https)
 
-![Site](Imagens%20do%20console%20AWS/21.Site%20portfolio.jpg)
+![Site](Imagens%20do%20console%20AWS/21-site-portfolio.jpg)
 
 ---
 
