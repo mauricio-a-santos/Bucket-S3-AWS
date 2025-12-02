@@ -33,10 +33,10 @@ Este repositório contém **prints** e um passo-a-passo de como criar um bucket 
 
 ## Sumário
 1. Criar bucket no S3 desativando bloqueio de acesso público (Block Public Access)
-3. Fazer upload dos arquivos (index.html, style.css, assets/)
-4. Ativar Static Website Hosting
-5. Definir bucket policy
-6. Acessar o endpoint do site
+2. Fazer upload dos arquivos (index.html, style.css, assets/)
+3. Ativar Static Website Hosting
+4. Definir bucket policy
+5. Acessar o endpoint do site
 
 ---
 
